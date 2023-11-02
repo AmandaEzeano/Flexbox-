@@ -1,2 +1,2 @@
 # FlexLayout
-Playing around with Flexbox
+Playing around with Flex
